@@ -1,0 +1,5 @@
+{
+  "navLinks": ["About", "Skills", "Experience", "Education", "Projects", "Case Studies", "Certifications", "Contact"],
+  "defaultTheme": "dark",
+  "formspreeEndpoint": "https://formspree.io/f/xxxxx"
+}

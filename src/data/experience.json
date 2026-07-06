@@ -1,0 +1,55 @@
+[
+  {
+    "role": "Project Manager",
+    "company": "Trikon Group",
+    "location": "Ahmedabad, Gujarat",
+    "start": "Jan 2026",
+    "end": "March 2026",
+    "bullets": [
+      "Replaced manual project tracking across a 30-member cross-functional team with a real-time internal and client-facing dashboard, cutting reporting lag from 4 days to 24 hours.",
+      "Designed and deployed Agile/Scrum delivery SOPs across 6 cross-functional teams — standardising sprint ceremonies, definition-of-done criteria, and escalation protocols.",
+      "Improved sprint predictability and on-time task completion by establishing clear governance frameworks across all delivery teams."
+    ],
+    "logo": "/images/trikon-logo.png"
+  },
+  {
+    "role": "Project Engineer – Product Management",
+    "company": "Alliance Industries (Contract)",
+    "location": "Aurangabad, Maharashtra",
+    "start": "June 2025",
+    "end": "Jan 2026",
+    "bullets": [
+      "Owned risk tracking and milestone management across project modules, coordinating cross-functional stakeholders to deliver all deliverables on time and within scope.",
+      "Maintained clear visibility of project health through structured reporting and escalation frameworks."
+    ],
+    "logo": "/images/alliance-logo.png"
+  },
+  {
+    "role": "Associate Project Manager – Software Engineering",
+    "company": "Orizzonte Consultancy Services",
+    "location": "Dhule, Maharashtra",
+    "start": "April 2024",
+    "end": "June 2025",
+    "bullets": [
+      "Defined product strategy and led end-to-end delivery of a clinical mental health monitoring MVP — conducted competitive research across 8+ market tools and coordinated engineering, clinical, and design stakeholders from discovery through launch.",
+      "Owned full product roadmap and sprint planning for an 18-member engineering team; introduced capacity planning and sprint KPIs that raised on-time delivery to 95% within six months.",
+      "Drove backlog prioritization, acceptance criteria, and resource allocation to lift team efficiency by 20%.",
+      "Diagnosed UX friction in the student portal; led a redesign validated via A/B testing, delivering a 40% lift in task completion rate and a 25% reduction in time-to-task."
+    ],
+    "logo": "/images/orizzonte-logo.png"
+  },
+  {
+    "role": "Software Engineer Intern",
+    "company": "Orizzonte Consultancy Services",
+    "location": "Maharashtra",
+    "start": "Dec 2023",
+    "end": "April 2024",
+    "bullets": [
+      "Built a Python-based scraping pipeline (Selenium + BeautifulSoup) to extract 50k records/week, improving reporting accuracy and accessibility.",
+      "Implemented stakeholder-driven features and built Django modules to support product reporting needs.",
+      "Contributed to Agile SDLC phases including requirements, testing, and deployment; gained hands-on exposure to sprint planning and CI/CD workflows.",
+      "Assisted sprint planning and Agile ceremonies; supported PMs in backlog grooming and release planning."
+    ],
+    "logo": "/images/orizzonte-logo.png"
+  }
+]

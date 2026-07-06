@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Google AI Essentials",
+    "issuer": "Coursera",
+    "date": "2026",
+    "image": "/google-logo.webp",
+    "credentialUrl": "https://www.coursera.org/account/accomplishments/specialization/K1DMMMO9POM1"
+  },
+  {
+    "title": "The Agile & Scrum Project Management Course",
+    "issuer": "Udemy",
+    "date": "2025",
+    "image": "/Udemy.png",
+    "credentialUrl": "https://www.udemy.com/certificate/UC-7ddf9a14-6563-45e6-be6a-fceeb724a80a/"
+  },
+  {
+    "title": "Data Modeling with Power BI: Advanced DAX Calculations",
+    "issuer": "Coursera",
+    "date": "2025",
+    "image": "/coursera-logo.png",
+    "credentialUrl": "https://www.coursera.org/account/accomplishments/verify/35D74MKVNLK5"
+  }
+]

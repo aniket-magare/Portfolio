@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Light Mode */
+    --bg-primary: 248 250 252;      /* #F8FAFC */
+    --bg-card: 255 255 255;         /* #FFFFFF */
+    --text-primary: 15 23 42;       /* #0F172A */
+    --text-muted: 71 85 105;        /* #475569 */
+    --accent-primary: 79 70 229;    /* #4F46E5 */
+    --accent-secondary: 8 145 178;  /* #0891B2 */
+    --success-tag: 52 211 153;      /* #34D399 */
+    --border-color: 226 232 240;    /* #E2E8F0 */
+  }
+
+  .dark {
+    /* Dark Mode */
+    --bg-primary: 11 17 32;         /* #0B1120 */
+    --bg-card: 17 24 39;            /* #111827 */
+    --text-primary: 226 232 240;    /* #E2E8F0 */
+    --text-muted: 148 163 184;      /* #94A3B8 */
+    --accent-primary: 99 102 241;   /* #6366F1 */
+    --accent-secondary: 34 211 238; /* #22D3EE */
+    --success-tag: 52 211 153;      /* #34D399 */
+    --border-color: 255 255 255;    /* rgba(255,255,255,0.08) base color */
+  }
+
+  html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  body {
+    @apply bg-primary text-textMain font-body antialiased transition-colors duration-300;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading tracking-tight;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-card/80 backdrop-blur-md border border-divider shadow-sm;
+  }
+  
+  .glass-card-hover {
+    @apply hover:shadow-lg hover:border-accentSecondary/50 hover:-translate-y-1 transition-all duration-300;
+  }
+
+  .gradient-text {
+    background: linear-gradient(135deg, #6366f1, #22d3ee);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}

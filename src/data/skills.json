@@ -1,0 +1,54 @@
+[
+  {
+    "category": "Project & Product Management",
+    "items": [
+      { "name": "Stakeholder Management", "iconMode": "text" },
+      { "name": "Agile / Scrum", "iconMode": "text" },
+      { "name": "Sprint Planning", "iconMode": "text" },
+      { "name": "Roadmap Ownership", "iconMode": "text" },
+      { "name": "Risk Management", "iconMode": "text" },
+      { "name": "Backlog Prioritization", "iconMode": "text" },
+      { "name": "OKR Alignment", "iconMode": "text" },
+      { "name": "Capacity Planning", "iconMode": "text" },
+      { "name": "PMO Governance", "iconMode": "text" },
+      { "name": "Market Research", "iconMode": "text" },
+      { "name": "User Story Mapping", "iconMode": "text" },
+      { "name": "Competitor Analysis", "iconMode": "text" }
+    ]
+  },
+  {
+    "category": "Tools & Platforms",
+    "items": [
+      { "name": "JIRA", "iconMode": "auto" },
+      { "name": "Confluence", "iconMode": "text" },
+      { "name": "Figma", "iconMode": "auto" },
+      { "name": "GitHub", "iconMode": "auto" },
+      { "name": "Trello", "iconMode": "text" },
+      { "name": "Slack", "iconMode": "text" },
+      { "name": "MS Project", "iconMode": "text" }
+    ]
+  },
+  {
+    "category": "Data & Analytics",
+    "items": [
+      { "name": "Power BI", "iconMode": "text" },
+      { "name": "Excel", "iconMode": "text" },
+      { "name": "SQL", "iconMode": "auto" },
+      { "name": "DAX", "iconMode": "text" },
+      { "name": "A/B Testing", "iconMode": "text" },
+      { "name": "KPI / SLA Tracking", "iconMode": "text" }
+    ]
+  },
+  {
+    "category": "Technical Familiarity",
+    "items": [
+      { "name": "Python", "iconMode": "auto" },
+      { "name": "Django", "iconMode": "auto" },
+      { "name": "React.js", "iconMode": "auto" },
+      { "name": "Java", "iconMode": "auto" },
+      { "name": "Node.js", "iconMode": "auto" },
+      { "name": "Docker", "iconMode": "auto" },
+      { "name": "REST APIs", "iconMode": "text" }
+    ]
+  }
+]
