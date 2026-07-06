@@ -36,7 +36,7 @@ function localApiPlugin() {
               fs.writeFileSync(filePath, buffer)
               
               res.setHeader('Content-Type', 'application/json')
-              res.end(JSON.stringify({ path: `/images/${folder}/${fileName}` }))
+              res.end(JSON.stringify({ path: `images/${folder}/${fileName}` }))
             } catch (err) {
               res.statusCode = 500
               res.setHeader('Content-Type', 'application/json')
@@ -76,6 +76,7 @@ function localApiPlugin() {
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/Portfolio/',
   plugins: [react(), localApiPlugin()],
 })
 

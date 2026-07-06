@@ -10,7 +10,7 @@
       "Designed and deployed Agile/Scrum delivery SOPs across 6 cross-functional teams — standardising sprint ceremonies, definition-of-done criteria, and escalation protocols.",
       "Improved sprint predictability and on-time task completion by establishing clear governance frameworks across all delivery teams."
     ],
-    "logo": "/images/trikon-logo.png"
+    "logo": "images/trikon-logo.png"
   },
   {
     "role": "Project Engineer – Product Management",
@@ -22,7 +22,7 @@
       "Owned risk tracking and milestone management across project modules, coordinating cross-functional stakeholders to deliver all deliverables on time and within scope.",
       "Maintained clear visibility of project health through structured reporting and escalation frameworks."
     ],
-    "logo": "/images/alliance-logo.png"
+    "logo": "images/alliance-logo.png"
   },
   {
     "role": "Associate Project Manager – Software Engineering",
@@ -36,7 +36,7 @@
       "Drove backlog prioritization, acceptance criteria, and resource allocation to lift team efficiency by 20%.",
       "Diagnosed UX friction in the student portal; led a redesign validated via A/B testing, delivering a 40% lift in task completion rate and a 25% reduction in time-to-task."
     ],
-    "logo": "/images/orizzonte-logo.png"
+    "logo": "images/orizzonte-logo.png"
   },
   {
     "role": "Software Engineer Intern",
@@ -50,6 +50,6 @@
       "Contributed to Agile SDLC phases including requirements, testing, and deployment; gained hands-on exposure to sprint planning and CI/CD workflows.",
       "Assisted sprint planning and Agile ceremonies; supported PMs in backlog grooming and release planning."
     ],
-    "logo": "/images/orizzonte-logo.png"
+    "logo": "images/orizzonte-logo.png"
   }
 ]

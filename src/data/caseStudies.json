@@ -2,7 +2,7 @@
   {
     "title": "Lila Games APM Case Study",
     "slug": "lila-games-product-roadmap",
-    "cover": "/images/cs-lila-games.jpg",
+    "cover": "images/cs-lila-games.jpg",
     "role": "Associate Product Manager",
     "problem": "The mobile gaming industry in 2025 is converging across PC, console, and mobile experiences, with AI and shifting player behavior reshaping how games are built, marketed, and monetized. Lila Games needed a scalable art production model for a new COD Zombies-style mobile title, alongside a cross-genre creative research framework to inform user acquisition strategy for two upcoming titles LILA Black (Casual Extraction Shooter) and Heart's Desire (Dating Sim). The challenge required translating fast-moving market signals into structured, data-backed production and marketing decisions rather than relying on assumptions.",
     "approach": "A three-part strategic framework was built to address production planning, creative research, and applied UA strategy in parallel.\n\nArt Pipeline: A fully formula-driven Google Sheets model was built to estimate art asset requirements for a 9-month development cycle plus 6-month soft launch, grounded in genre benchmarking (8-12 zombie types, 12-16 weapon variants, modular environment design) rather than arbitrary estimates\n\nStaffing Model: Total production hours were calculated bottom-up from asset volume and complexity, then converted into role-based headcount requirements (Concept, 3D Character, 3D Environment, VFX, UI, Animation) and validated against a 9-month capacity constraint\n\nCreative Research Framework: A repeatable analysis structure (hook, story/emotion, visual style, format, CTA, localization) was applied consistently across three distinct genres shooter (Free Fire), dating sim (Episode), and puzzle (Merge Mansion) using verified market data, agency case studies, and industry benchmarks\n\nApplied UA Strategy: Cross-genre findings were translated into genre-specific creative concept directions for LILA Black, each tied directly to a research-backed performance pattern rather than a subjective creative pitch\n\nCompetitive Art Benchmarking: Battle pass art direction was analyzed across five live games (Fortnite Mobile, Brawl Stars, COD Mobile, Arena Breakout, BGMI) using a consistent lens: art strategy, purchase psychology, and competitive differentiation",
@@ -14,14 +14,14 @@
       "20+ primary sources (market intelligence tools, agency case studies, industry reports) used to validate every recommendation"
     ],
     "figmaUrl": "",
-    "pdfUrl": "/Lila-games-case-study.pdf",
+    "pdfUrl": "Lila-games-case-study.pdf",
     "detailedSections": [],
     "gallery": []
   },
   {
     "title": "Accredian Student Communication Dashboard Case Study",
     "slug": "accredian-student-engagement",
-    "cover": "/images/cs-accredian.jpg",
+    "cover": "images/cs-accredian.jpg",
     "role": "Product Designer / Researcher",
     "problem": "Accredian students rely on external apps like WhatsApp, Telegram, and LinkedIn to stay connected with their cohort, coordinate group work, and share resources. Because communication is scattered across disconnected platforms, students miss important updates, struggle to separate academic messages from personal chats, and find it difficult to build genuine peer connections within the learning environment. This creates a disjointed learning experience where the platform students are enrolled on isn't where their actual collaboration happens.",
     "approach": "A single, centralized communication hub was designed to bring cohort collaboration, peer discovery, and community engagement back inside Accredian, replacing the need for external apps entirely.\n\nResearch and Competitive Analysis: WhatsApp, Telegram, Discord, and Slack were benchmarked against student communication needs, identifying that no existing tool combines structured course linked chat, peer discovery, lightweight productivity, and community engagement in one product\n\nBehavioral Research Grounding: Design decisions were backed by academic and UX research on threaded discussion clarity, AI summarization benefits, learning analytics dashboard engagement, and community driven retention in online learning\n\nFeature Architecture: Eight core screens were designed, including Home Dashboard, Cohort Chat, Study Group, Communities, Fun Zone, Voice Rooms, Peer Discovery, and Personal Notes, each mapped to a specific student pain point\n\nTrade off Decisions: Pastel UI was chosen over traditional LMS design to reduce cognitive load; threaded chat was chosen over free flow chat to reduce noise in large cohorts; a non academic Fun Zone was deliberately included to drive engagement and community culture\n\nRisk Planning: Key adoption risks such as habit stickiness to WhatsApp, community spam, feature overload, and Fun Zone overuse were identified with corresponding mitigation strategies built into the design",
@@ -34,14 +34,14 @@
       "Fully modular design system, allowing sections to be expanded or replaced independently as the platform scales"
     ],
     "figmaUrl": "https://www.figma.com/community/file/1655249964981217257",
-    "pdfUrl": "/Accredian Student Communication Dashboard -Aniket.pdf",
+    "pdfUrl": "Accredian Student Communication Dashboard -Aniket.pdf",
     "detailedSections": [],
     "gallery": []
   },
   {
     "title": "VibeCircle Product Strategy Case Study",
     "slug": "sharechat-moj-creator-economy",
-    "cover": "/images/cs-sharechat.jpg",
+    "cover": "images/cs-sharechat.jpg",
     "role": "Product Analyst",
     "problem": "Young creators and users in Tier-2 and Tier-3 Indian cities are underserved by mainstream social platforms, which are built for metro, English-first, high-follower-count creator economies. Local creators struggle to earn even small amounts because platforms require large follower thresholds, local content gets buried under national viral trends, and cultural or language barriers make users feel like outsiders on their own apps. On top of this, technical friction such as failed OTP sign-ups on slow networks, lack of low-data modes, and unresolved harassment reports pushes users toward informal channels like WhatsApp instead of staying inside a dedicated platform.",
     "approach": "A full product strategy was developed to address earning, discovery, safety, and technical accessibility gaps for Tier-2/3 users through a single mobile-first platform.\n\nProblem Mapping: User problems were segmented into two categories, monetization and cultural exclusion versus app experience and safety, to separate economic pain points from platform usability issues\n\nUse Case Analysis: Four recurring user scenarios were defined, including the Weekend Planner, the Hobbyist Hunt, the Creator's Crisis, and the Onboarding Trap, to ground feature decisions in real behavioral patterns rather than assumptions\n\nMarket Sizing: TAM was estimated at 120 million users aged 16 to 25 in Tier-2/3 cities, with a focused segment of 50 million users already sharing content externally due to lack of in-app community\n\nSolution Architecture: Seven core solution pillars were designed, including a local city algorithm, interest groups, a micro-earning marketplace, regional language safety filters, offline/low-data mode, and WhatsApp-based OTP sign-up\n\nGrowth Strategy: A three-phase adoption plan was structured across seed, viral scale, and national presence stages, targeting 10 million users in year one through college seeding, WhatsApp referral loops, and telecom pre-installation partnerships\n\nRisk Planning: Six risk categories were identified, spanning content trust, safety, competitive, technical, scalability, and adoption risks, each paired with a specific mitigation strategy",
@@ -55,14 +55,14 @@
       "14-screen wireframe prototype built covering onboarding, home feed, groups, marketplace, safety, offline mode, and growth features"
     ],
     "figmaUrl": "https://www.figma.com/make/0pOfrUacWpPBFGvIuuvvOE/VibeCircle-Mobile-App-Wireframes?fullscreen=1&t=vlO9NSVUuuYzrn3O-1",
-    "pdfUrl": "/VibeCircle.pdf",
+    "pdfUrl": "VibeCircle.pdf",
     "detailedSections": [],
     "gallery": []
   },
   {
     "title": "Transaction Reconciliation - Fintech Product Case Study",
     "slug": "transaction-reconciliation-optimization",
-    "cover": "/images/cs-transaction.jpg",
+    "cover": "images/cs-transaction.jpg",
     "role": "Product Manager",
     "problem": "Finance teams at investment firms rely on a daily reconciliation tool to match internal ledger data against external bank and broker feeds, but the tool's exact-match logic flags harmless formatting differences, like \"Acme Corp\" versus \"Acme Corporation,\" as full mismatches. Analysts spend most of their day manually sorting through hundreds of exceptions with no priority order, no way to assign work across a team, no audit trail explaining why a match was approved, and no logic to distinguish real errors from routine settlement timing lags. This creates daily operational drag, increases audit and compliance risk, and pushes analysts to check everything by hand, defeating the purpose of having the tool at all.",
     "approach": "A three-phase improvement plan was proposed to fix matching accuracy, prioritization, and auditability, with each phase building on the one before it.\n\nUser Workflow Analysis: A day-in-the-life walkthrough of a reconciliation analyst was mapped to identify exactly where time was lost, including manual file uploads, exact-match false breaks, unranked exception lists, and undocumented approval decisions\n\nSmart Matching Engine: A rules-based scoring model was designed to evaluate amount, date within a one-day window, reference number, counterparty name using flexible text matching, and currency, generating a 0 to 100 confidence score with plain-English reasoning for each suggested match\n\nException Triage Queue: A structured panel was designed to auto-categorize exceptions by type such as amount mismatch, missing record, timing difference, or duplicate, and auto-rank them by financial risk and age, with automatic closure logic for routine settlement lags\n\nAudit Trail and Explainability: A field-by-field comparison log was designed to record who approved each match, when, under which rule, and with what score breakdown, exportable directly for compliance and audit review\n\nEngineering Collaboration Plan: A working-session approach was defined instead of a document handoff, including specific technical questions on data normalization, transaction volume limits, one-to-many batch matching, and decision-logging for future model tuning\n\nEdge Case Planning: Six data risk scenarios were identified and addressed, including duplicate transactions, time zone mismatches, one-to-many batch settlements, decimal precision mismatches, and blank reference fields\n\nRollout and Validation Plan: A parallel-run testing approach was proposed across two full reconciliation cycles, tracking auto-match rate, false positive rate, and false negative rate before full production rollout, with a feature flag for instant rollback",
@@ -76,15 +76,15 @@
       "2 full reconciliation cycles proposed for parallel-run validation before production cutover",
       "Up to 50% potential operations time savings referenced from industry research on ML-assisted reconciliation"
     ],
-    "figmaUrl": "/Transaction Reconciliation Tool.jpeg",
-    "pdfUrl": "/transaction-reconciliation-case-study.pdf",
+    "figmaUrl": "Transaction Reconciliation Tool.jpeg",
+    "pdfUrl": "transaction-reconciliation-case-study.pdf",
     "detailedSections": [],
     "gallery": []
   },
   {
     "title": "Cloud Posture Overview Dashboard Case Study",
     "slug": "cloud-posture-dashboard",
-    "cover": "/images/cs-cloud-posture.jpg",
+    "cover": "images/cs-cloud-posture.jpg",
     "role": "Product Manager",
     "problem": "Security teams managing cloud environments across AWS, Azure, and GCP lack a unified view to see and act on misconfigurations such as open storage buckets, weak access rules, or missing encryption. Findings are scattered across accounts, ownership is unclear, and inconsistent tagging creates noise that delays remediation. This fragmented visibility increases the risk of data breaches and compliance failures, and makes it difficult for teams to measure progress or prioritize the issues that matter most.",
     "approach": "A three-layer dashboard workflow was designed to move users from high-level posture trends down to specific, actionable findings.\n\nPersona Definition: Two primary users were identified, a time-constrained Cloud Security Analyst who needs fast filters and clear evidence, and a Security Engineering Lead who needs trend visibility, SLAs, and hot-spot account tracking\n\nInformation Architecture: A three-step workflow was structured as Overview for posture trends, List for specific misconfigurations, and Details for resolution and compliance mapping, so users move from summary to action without losing context\n\nFeature Design: Core features were defined including a unified multi-account KPI view, a filterable findings list by severity, provider, account, service, and tags, detailed finding views with evidence and remediation steps, and an assignment and suppression system with full audit trail\n\nPrioritization Framework: Features were split into MVP, next iteration, and stretch goals, with MVP covering overview KPIs, filterable lists, finding details, and assign or suppress actions, while stretch goals included one-click remediation and automated risk scoring\n\nEngineering Action Planning: Specific backend, frontend, governance, and observability requirements were defined, including finding normalization across cloud providers, RBAC, suppression policy with expiry rules, and usage telemetry across the overview to detail funnel",
@@ -98,14 +98,14 @@
       "3-tier feature prioritization defined across MVP, next iteration, and stretch scope"
     ],
     "figmaUrl": "https://www.figma.com/community/file/1580921473599033990/cloud-security-posture-management-dashboard-screens",
-    "pdfUrl": "/Cloud Posture Dashboard.pdf",
+    "pdfUrl": "Cloud Posture Dashboard.pdf",
     "detailedSections": [],
     "gallery": []
   },
   {
     "title": "AI Mentor for UPSC Aspirants Case Study",
     "slug": "ai-mentor-upsc-aspirants",
-    "cover": "/images/cs-ai-mentor.jpg",
+    "cover": "images/cs-ai-mentor.jpg",
     "role": "Product Manager",
     "problem": "India's government exam prep market serves 30 plus million aspirants annually, yet selection rates remain below 1 to 3 percent despite an explosion of free digital content. Research shows dropouts are driven less by lack of intelligence and more by behavioral fatigue, poor feedback loops, and declining motivation over the 2 to 4 year prep cycle. Aspirants suffer from content abundance but direction scarcity, spending more time collecting PDFs and notes than actually studying, waiting months for feedback on their readiness, and losing motivation in isolation without the accountability of a physical coaching environment.",
     "approach": "A syllabus-aware AI mentor was designed as a Success Operating System rather than another content platform, focused on solving behavior and direction rather than adding more material.\n\nPersona Focus: The MVP was scoped around Tier 2/3 city aspirants, first and second attempt self-study candidates, and busy working professionals preparing part-time, since these segments are most underserved by existing content-heavy, urban-focused apps\n\nCore Product Decision: An AI-driven mentor and feedback engine was chosen over a pure planning tool or community platform, directly targeting the feedback gap and collection trap identified as the two biggest drivers of aspirant dropout\n\nMVP Scope: Features were defined around eliminating PDF hunting through auto-generated syllabus notes, closing the feedback gap through a real-time progress dashboard, and reducing motivation decay through daily gamified questions and peer-based accountability\n\nDifferentiation Framing: The product was positioned against three categories of existing solutions, replacing static notes and videos with AI-driven syllabus content, replacing generic mock tests with dynamically generated exam-trend-aligned questions, and replacing scattered news with exam-relevance-mapped current affairs\n\nMonetization and GTM Strategy: A freemium model was proposed with coin-based gamification driving premium conversion, supported by institution partnerships for bulk licensing and an ad-lite option for free users, with go-to-market built through student communities, UPSC topper collaborations, and a gamified referral loop rather than paid brand marketing\n\nRisk and Trade-off Planning: Five key risks were identified, including AI accuracy on syllabus content, gamification balance against serious prep intent, peer misinformation risk, low-bandwidth feature trade-offs, and adoption resistance from aspirants loyal to established coaching brands",
@@ -119,7 +119,7 @@
       "5 risk categories identified with specific trade-off reasoning for a seed-stage resource-constrained build"
     ],
     "figmaUrl": "https://string-cape-88420805.figma.site/",
-    "pdfUrl": "/Mitra AI PRD.pdf",
+    "pdfUrl": "Mitra AI PRD.pdf",
     "detailedSections": [],
     "gallery": []
   }
